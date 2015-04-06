@@ -28,7 +28,7 @@ import java.io.Console;
 
 			console.printf("\n");
 			console.printf("Your TreeStory:\n---------------\n");
-			console.printf("%s is very hungry for learning new things and he is from %s. \nHe Works at %s and he is currently learning %s in order to help his team %s.\n ", name, whereAreYouFrom, work, learning, team);
+			console.printf("%s is very smart and he is from %s. \nHe Works at %s and he is currently learning %s in order to help his team %s.\n ", name, whereAreYouFrom, work, learning, team);
 			console.printf("\n");
 
 		}
